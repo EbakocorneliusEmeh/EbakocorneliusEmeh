@@ -1,10 +1,8 @@
 
 ### Hi there 👋 I am EBAKO CORNELIUS EMEH
 💫 About Me:
-Full-Stack Developer
-Building APIs, real-time systems, and structured backend architectures.
 
-### Software Engineer
+### Full-Stack Developer
 I am a passionate developer specializing in building  backend systems. I focus on writing clean, maintainable code and solving complex problems through efficient algorithms.
 
 ### Tech Stack
@@ -13,7 +11,6 @@ I am a passionate developer specializing in building  backend systems. I focus o
 Node.js
 Express
 Nest.js
-PostgreSQL
 REST APIs
 JWT Authentication
 WebSockets (Socket.IO)
@@ -24,12 +21,87 @@ Next.js
 TypeScript
 JavaScript
 
+### Database
+PostgreSQL
+MongoDB
+
 ##  Tools & DevOps
 Git & GitHub
 Swagger (OpenAPI)
 Postman
 Insomnia
 Render, railway, Vercel  for Deployment
+
+###  Optimized Project
+
+1##  Contact Manager
+
+   PR https://github.com/EbakocorneliusEmeh/contact-manegement-app/pull/1
+
+   Deployment Link https://contact-manegement-app.vercel.app/
+
+##P roblem Statement – Contact Manager
+
+People interact with many contacts every day friends, family, coworkers, clients, and business partners Keeping track of all this information can become essy especially when it’s stored in different places or written down manually.
+There needs to be a simple and organized way to manage contacts in one place. Users should be able to easily add new contacts, update their information, delete contacts they no longer need, group them properly, and quickly search for specific people.
+
+The purpose of this project is to build a Contact Manager application that helps users manage their personal and professional contacts in a clean, easy way. The app should be wellstructured, properly organized and follow good development practices such as form validation and proper state management.
+
+##  Tech stack: React.js
+
+##  Challenges faced: 
+
+Preventing empty fields
+
+Validating email and phone number formats
+
+Filtering contacts without breaking performance
+
+##  What I Learned From This Project:
+
+Organize folders properly
+
+Separate components, pages, and state
+
+Managing a list of contacts
+
+Updating UI when adding,editing,deleting
+
+
+2##  Weather App
+
+Pr: https://github.com/EbakocorneliusEmeh/weather-app/pull/1
+
+Deployment: https://ebakocorneliusemeh.github.io/weather-app/
+
+## Problem Statement  Weather App
+
+People often want quick access to current weather information before making daily decisions like traveling, dressing, or planning activities. However, checking weather updates across different platforms can be inconvenient.
+
+The goal of this project is to build a simple and responsive Weather App where users can search for a city and instantly see its current weather details such as temperature, humidity, wind speed, and weather description using a public API like OpenWeatherMap. The app should also handle errors properly and provide a clean user experience.
+
+##  Challengee Faced
+
+Understanding asynchronous JavaScript
+
+Handling promises
+
+Managing API errorsUnderstanding asynchronous JavaScript
+
+Handling promises
+
+Managing API errors
+
+Loading it automatically on page refresh
+
+##  What I Learned From This Project:
+Make API calls
+
+Handle responses
+
+Extract and display data
+
+Improve user interaction
 
 ### 🌐 Socials
 
