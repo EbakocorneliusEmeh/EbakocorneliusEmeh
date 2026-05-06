@@ -118,7 +118,7 @@ pr for frontend https://github.com/YoungMonero/Postory-blogApp/pulls
 pr for backend  https://github.com/YoungMonero/blog-app-backend/pulls
 deployment link https://postory-blog-app.vercel.app
 
-## Problem Statement  Weather App
+## Problem Statement  for blog app
 
 Many bloggers and content creators lack a simple platform to create, manage, and share blog posts while staying updated with comments, notifications, and audience interactions in one place
 
