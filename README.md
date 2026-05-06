@@ -3,6 +3,13 @@
 💫 About Me:
 
 ### Full-Stack Developer
+
+
+📍 Yaounde, Cameroon | 💼 **Open to work** (Available for backend/full-stack roles)
+
+📧 **Contact:** ebakocornelius@gmail.com / 650424812
+
+
 I am a passionate developer specializing in building  backend systems. I focus on writing clean, maintainable code and solving complex problems through efficient algorithms.
 
 ### Tech Stack
