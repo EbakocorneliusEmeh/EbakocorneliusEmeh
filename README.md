@@ -110,6 +110,33 @@ Extract and display data
 
 Improve user interaction
 
+### full stack project
+
+3##  polling app
+
+pr for frontend https://github.com/YoungMonero/Postory-blogApp/pulls
+pr for backend  https://github.com/YoungMonero/blog-app-backend/pulls
+deployment link https://postory-blog-app.vercel.app
+
+## Problem Statement  Weather App
+
+Many bloggers and content creators lack a simple platform to create, manage, and share blog posts while staying updated with comments, notifications, and audience interactions in one place
+
+The goal of this project is to provide a blogging platform where users can:
+
+create and manage blog posts, read and discover content easily, interact through comments and likes, receive real-time notifications and 
+manage their account and blog settings in one place
+
+ ##  Challengee Faced
+ User authentication and session handling
+ Real-time notifications
+ State synchronization
+##  What I Learned From This Project:
+
+how to build a full blog platform with Next.js and React  
+how to manage global state using Context API
+how to organize a frontend project with reusable components
+
 ### 🌐 Socials
 
 💼 LinkedIn: https://www.linkedin.com/in/ebako-cornelius-emeh-4092723b1/
